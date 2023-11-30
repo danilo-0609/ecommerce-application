@@ -15,7 +15,6 @@
     <ProjectReference Include="..\Ecommerce.UserAccess.Application\Ecommerce.UserAccess.Application.csproj" />
     <ProjectReference Include="..\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\Ecommerce.BuildingBlocks.Infrastructure.csproj" />
     <ProjectReference Include="..\EcommerceApplication\Ecommerce.UserAccess.Domain\Ecommerce.UserAccess.Domain.csproj" />
-    <ProjectReference Include="..\EcommerceApplication\EcommerceApplication.API\Ecommerce.API.csproj" />
   </ItemGroup>
 
 </Project>

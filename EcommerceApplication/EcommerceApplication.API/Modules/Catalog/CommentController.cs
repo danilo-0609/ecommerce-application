@@ -15,4 +15,11 @@ public sealed class CommentController : ApiController
     {
         _sender = sender;
     }
+
+    [HttpPost("")]
+    public async Task<IActionResult> CreateComment()
+    {
+
+        return Ok();
+    }
 }

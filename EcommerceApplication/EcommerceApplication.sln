@@ -52,15 +52,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.UserAccess.Applic
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.UserAccess.IntegrationEvents", "..\Ecommerce.UserAccess.IntegrationEvent\Ecommerce.UserAccess.IntegrationEvents.csproj", "{76803783-CF48-40A8-B125-737923582A25}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Profiles", "Profiles", "{42A0A3C8-C35C-45EF-97B1-08C7A41FD15C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.UserAccess.Infrastructure", "..\Ecommerce.UserAccess.Infrastructure\Ecommerce.UserAccess.Infrastructure.csproj", "{CC369060-0C0E-4700-8CAD-5F8AA75CA411}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.UserAccess.Infrastructure", "..\Ecommerce.UserAccess.Infrastructure\Ecommerce.UserAccess.Infrastructure.csproj", "{CC369060-0C0E-4700-8CAD-5F8AA75CA411}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Shopping.Domain", "..\Ecommerce.Shopping.Domain\Ecommerce.Shopping.Domain.csproj", "{C5079030-C29B-4814-931C-6EAC525C7760}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Shopping.Domain", "..\Ecommerce.Shopping.Domain\Ecommerce.Shopping.Domain.csproj", "{C5079030-C29B-4814-931C-6EAC525C7760}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.Shopping.IntegrationEvents", "..\Ecommerce.Shopping.IntegrationEvents\Ecommerce.Shopping.IntegrationEvents.csproj", "{910F7DFB-D96F-48D0-BB48-2309758DFB7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Shopping.IntegrationEvents", "..\Ecommerce.Shopping.IntegrationEvents\Ecommerce.Shopping.IntegrationEvents.csproj", "{910F7DFB-D96F-48D0-BB48-2309758DFB7E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.UserAccess.Tests", "..\Ecommerce.UserAccess.Tests\Ecommerce.UserAccess.Tests.csproj", "{1F28490C-2538-4521-B5BF-17C0E2B476DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ecommerce.UserAccess.Tests", "..\Ecommerce.UserAccess.Tests\Ecommerce.UserAccess.Tests.csproj", "{1F28490C-2538-4521-B5BF-17C0E2B476DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,7 +159,6 @@ Global
 		{0CC7F378-047B-4D03-A226-E4703B8781D6} = {C8945F26-9223-4928-BF4D-16A74E272579}
 		{CCB5D06D-A9AF-4953-B3B7-E9B28D161ADD} = {DFEE2D83-835A-4803-944B-B0FBA7E06B6B}
 		{76803783-CF48-40A8-B125-737923582A25} = {DFEE2D83-835A-4803-944B-B0FBA7E06B6B}
-		{42A0A3C8-C35C-45EF-97B1-08C7A41FD15C} = {1CF85C0B-1F2D-477A-8D75-43F9EADA68E7}
 		{CC369060-0C0E-4700-8CAD-5F8AA75CA411} = {DFEE2D83-835A-4803-944B-B0FBA7E06B6B}
 		{C5079030-C29B-4814-931C-6EAC525C7760} = {1F1DAEDC-E7C4-43ED-8221-89FCFF0F12F6}
 		{910F7DFB-D96F-48D0-BB48-2309758DFB7E} = {1F1DAEDC-E7C4-43ED-8221-89FCFF0F12F6}

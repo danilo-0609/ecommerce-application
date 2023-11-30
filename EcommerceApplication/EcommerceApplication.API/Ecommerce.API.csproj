@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Ecommerce.UserAccess.Application\Ecommerce.UserAccess.Application.csproj" />
+    <ProjectReference Include="..\..\Ecommerce.UserAccess.Infrastructure\Ecommerce.UserAccess.Infrastructure.csproj" />
     <ProjectReference Include="..\Ecommerce.Catalog.Application\Ecommerce.Catalog.Application.csproj" />
     <ProjectReference Include="..\Ecommerce.Catalog.Infrastructure\Ecommerce.Catalog.Infrastructure.csproj" />
   </ItemGroup>
