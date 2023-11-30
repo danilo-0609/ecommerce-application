@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.7.1" />
+    <PackageReference Include="NetArchTest.Rules" Version="1.3.2" />
+    <PackageReference Include="NSubstitute" Version="5.1.0" />
+    <PackageReference Include="xunit" Version="2.4.2" />
+    <PackageReference Include="xunit.runner.visualstudio" Version="2.4.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="coverlet.collector" Version="6.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="IntegrationEvents\" />
+    <Folder Include="UnitTests\Domain\Ratings\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.BuildingBlocks.Application\Ecommerce.BuildingBlocks.Application.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.BuildingBlocks.Domain\Ecommerce.BuildingBlocks.Domain.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\Ecommerce.BuildingBlocks.Infrastructure.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.Application\Ecommerce.Catalog.Application.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.Domain\Ecommerce.Catalog.Domain.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.Infrastructure\Ecommerce.Catalog.Infrastructure.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.IntegrationEvents\Ecommerce.Catalog.IntegrationEvents.csproj" />
+  </ItemGroup>
+
+</Project>

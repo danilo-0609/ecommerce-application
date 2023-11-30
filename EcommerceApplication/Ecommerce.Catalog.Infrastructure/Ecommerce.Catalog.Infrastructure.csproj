@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.BuildingBlocks.Domain\Ecommerce.BuildingBlocks.Domain.csproj" />
+    <ProjectReference Include="..\Ecommerce.BuildingBlocks.Infrastructure\Ecommerce.BuildingBlocks.Infrastructure.csproj" />
+    <ProjectReference Include="..\Ecommerce.Catalog.Application\Ecommerce.Catalog.Application.csproj" />
+    <ProjectReference Include="..\Ecommerce.Catalog.Domain\Ecommerce.Catalog.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MassTransit" Version="8.1.2" />
+    <PackageReference Include="MassTransit.RabbitMQ" Version="8.1.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.13" />
+    <PackageReference Include="Quartz" Version="3.7.0" />
+    <PackageReference Include="Quartz.Extensions.Hosting" Version="3.7.0" />
+  </ItemGroup>
+
+</Project>

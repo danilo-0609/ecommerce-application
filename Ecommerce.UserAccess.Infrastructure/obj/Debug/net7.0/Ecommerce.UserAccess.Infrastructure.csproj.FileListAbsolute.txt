@@ -1,0 +1,5 @@
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Infrastructure\obj\Debug\net7.0\Ecommerce.UserAccess.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Infrastructure\obj\Debug\net7.0\Ecommerce.UserAccess.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Infrastructure\obj\Debug\net7.0\Ecommerce.UserAccess.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Infrastructure\obj\Debug\net7.0\Ecommerce.UserAccess.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Infrastructure\obj\Debug\net7.0\Ecommerce.UserAccess.Infrastructure.csproj.CoreCompileInputs.cache

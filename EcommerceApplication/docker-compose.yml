@@ -1,0 +1,33 @@
+version: '3.4'
+
+services:
+  ecommerce.api:
+    image: ${DOCKER_REGISTRY-}ecommerceapi
+    build:
+      context: .
+      dockerfile: EcommerceApplication.API/Dockerfile
+    ports:
+     - "8080:80"
+     
+  ecommerce.db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: Ecommerce.Db
+    volumes:
+       - ./.containers/database:/var/opt/mssql/data
+    ports: 
+       - "1433:1433"
+    environment:
+        ACCEPT_EULA: "Y"
+        SA_PASSWORD: "guest"
+  
+  ecommerce-mq: 
+    image: rabbitmq:3.11.7-management
+    container_name: Queue
+    hostname: ecommerce-queue
+    volumes:
+        - ./.containers/queue/data/:/var/lib/rabbitmq
+        - ./.containers/queue/data/:/var/log/rabbitmq
+    environment:
+        RABBITMQ_DEFAULT_USER: guest
+        RABBITMQ_DEFAULT_PASS: guest
+    

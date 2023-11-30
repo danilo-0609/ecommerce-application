@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\bin\Debug\net7.0\ConsumidorDos.deps.json
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\bin\Debug\net7.0\ConsumidorDos.dll
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\bin\Debug\net7.0\ConsumidorDos.pdb
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\bin\Debug\net7.0\IntegrationEvents.dll
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\bin\Debug\net7.0\IntegrationEvents.pdb
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.dll
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\refint\ConsumidorDos.dll
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ConsumidorDos.pdb
+C:\Users\Usuario\source\repos\OtraPrueba\ConsumidorDos\obj\Debug\net7.0\ref\ConsumidorDos.dll

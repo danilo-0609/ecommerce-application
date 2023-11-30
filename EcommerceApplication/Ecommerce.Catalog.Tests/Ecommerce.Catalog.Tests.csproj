@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecommerce.Catalog.Application\Ecommerce.Catalog.Application.csproj" />
+    <ProjectReference Include="..\Ecommerce.Catalog.Domain\Ecommerce.Catalog.Domain.csproj" />
+    <ProjectReference Include="..\Ecommerce.Catalog.Infrastructure\Ecommerce.Catalog.Infrastructure.csproj" />
+    <ProjectReference Include="..\Ecommerce.Catalog.IntegrationEvents\Ecommerce.Catalog.IntegrationEvents.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ArchTests\" />
+    <Folder Include="IntegrationTests\" />
+    <Folder Include="UnitTests\" />
+  </ItemGroup>
+
+</Project>

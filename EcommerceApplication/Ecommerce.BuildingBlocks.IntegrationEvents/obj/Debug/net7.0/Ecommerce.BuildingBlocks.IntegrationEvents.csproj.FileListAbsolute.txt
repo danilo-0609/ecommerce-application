@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\bin\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.deps.json
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\bin\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\bin\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\refint\Ecommerce.BuildingBlocks.IntegrationEvents.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\Ecommerce.BuildingBlocks.IntegrationEvents.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.IntegrationEvents\obj\Debug\net7.0\ref\Ecommerce.BuildingBlocks.IntegrationEvents.dll

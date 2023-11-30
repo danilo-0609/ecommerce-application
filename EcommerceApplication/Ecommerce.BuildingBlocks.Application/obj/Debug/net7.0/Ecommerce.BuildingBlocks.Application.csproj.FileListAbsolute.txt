@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Application.deps.json
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Application.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Application.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Domain.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Domain.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.csproj.CopyComplete
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\refint\Ecommerce.BuildingBlocks.Application.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Application.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Application\obj\Debug\net7.0\ref\Ecommerce.BuildingBlocks.Application.dll

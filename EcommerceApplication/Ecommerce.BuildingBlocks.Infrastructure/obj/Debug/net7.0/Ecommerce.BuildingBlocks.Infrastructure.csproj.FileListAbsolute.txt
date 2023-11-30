@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\refint\Ecommerce.BuildingBlocks.Infrastructure.dll
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\Ecommerce.BuildingBlocks.Infrastructure.pdb
+C:\Users\Usuario\source\repos\EcommerceApplication\Ecommerce.BuildingBlocks.Infrastructure\obj\Debug\net7.0\ref\Ecommerce.BuildingBlocks.Infrastructure.dll

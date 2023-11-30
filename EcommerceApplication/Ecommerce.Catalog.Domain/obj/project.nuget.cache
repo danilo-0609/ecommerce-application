@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDwvE1/OHB2KC19hss+FEN4gi5haEu86hrh/ygEUhJZ7VYCJmgKP3EowocyHKiKqOObZcBZ1D9hy7iIU42I2dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\EcommerceApplication\\Ecommerce.Catalog.Domain\\Ecommerce.Catalog.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\erroror\\1.3.0\\erroror.1.3.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
