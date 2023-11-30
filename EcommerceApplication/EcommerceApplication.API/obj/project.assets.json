@@ -195,25 +195,6 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.IdentityModel.Protocols.OpenIdConnect": "6.15.1"
-        },
-        "compile": {
-          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll": {
-            "related": ".xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "Microsoft.AspNetCore.Http.Features/5.0.17": {
         "type": "package",
         "dependencies": {
@@ -1639,23 +1620,6 @@
           "bin/placeholder/Ecommerce.UserAccess.Domain.dll": {}
         }
       },
-      "Ecommerce.UserAccess.Infrastructure/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "dependencies": {
-          "Ecommerce.BuildingBlocks.Infrastructure": "1.0.0",
-          "Ecommerce.UserAccess.Application": "1.0.0",
-          "Ecommerce.UserAccess.Domain": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Ecommerce.UserAccess.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Ecommerce.UserAccess.Infrastructure.dll": {}
-        }
-      },
       "Ecommerce.UserAccess.IntegrationEvents/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1882,21 +1846,6 @@
         "lib/netstandard2.0/MediatR.Contracts.xml",
         "mediatr.contracts.2.0.1.nupkg.sha512",
         "mediatr.contracts.nuspec"
-      ]
-    },
-    "Microsoft.AspNetCore.Authentication.JwtBearer/7.0.0": {
-      "sha512": "q2suMVl1gO6rBJkV7rxm0F2sBufValm2RKxY3zoWN4y6cAufDJYmzpLWPKju3kKFJFKNgivWgoTw0dvf4W5QDQ==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.authentication.jwtbearer/7.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll",
-        "lib/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.xml",
-        "microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
-        "microsoft.aspnetcore.authentication.jwtbearer.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Http.Features/5.0.17": {
@@ -4454,11 +4403,6 @@
       "path": "../Ecommerce.UserAccess.Domain/Ecommerce.UserAccess.Domain.csproj",
       "msbuildProject": "../Ecommerce.UserAccess.Domain/Ecommerce.UserAccess.Domain.csproj"
     },
-    "Ecommerce.UserAccess.Infrastructure/1.0.0": {
-      "type": "project",
-      "path": "../../Ecommerce.UserAccess.Infrastructure/Ecommerce.UserAccess.Infrastructure.csproj",
-      "msbuildProject": "../../Ecommerce.UserAccess.Infrastructure/Ecommerce.UserAccess.Infrastructure.csproj"
-    },
     "Ecommerce.UserAccess.IntegrationEvents/1.0.0": {
       "type": "project",
       "path": "../../Ecommerce.UserAccess.IntegrationEvent/Ecommerce.UserAccess.IntegrationEvents.csproj",
@@ -4470,7 +4414,6 @@
       "Ecommerce.Catalog.Application >= 1.0.0",
       "Ecommerce.Catalog.Infrastructure >= 1.0.0",
       "Ecommerce.UserAccess.Application >= 1.0.0",
-      "Ecommerce.UserAccess.Infrastructure >= 1.0.0",
       "ErrorOr >= 1.3.0",
       "MassTransit >= 8.1.2",
       "MassTransit.RabbitMQ >= 8.1.2",
@@ -4510,9 +4453,6 @@
           "projectReferences": {
             "C:\\Users\\Usuario\\source\\repos\\Ecommerce.UserAccess.Application\\Ecommerce.UserAccess.Application.csproj": {
               "projectPath": "C:\\Users\\Usuario\\source\\repos\\Ecommerce.UserAccess.Application\\Ecommerce.UserAccess.Application.csproj"
-            },
-            "C:\\Users\\Usuario\\source\\repos\\Ecommerce.UserAccess.Infrastructure\\Ecommerce.UserAccess.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\Ecommerce.UserAccess.Infrastructure\\Ecommerce.UserAccess.Infrastructure.csproj"
             },
             "C:\\Users\\Usuario\\source\\repos\\EcommerceApplication\\Ecommerce.Catalog.Application\\Ecommerce.Catalog.Application.csproj": {
               "projectPath": "C:\\Users\\Usuario\\source\\repos\\EcommerceApplication\\Ecommerce.Catalog.Application\\Ecommerce.Catalog.Application.csproj"

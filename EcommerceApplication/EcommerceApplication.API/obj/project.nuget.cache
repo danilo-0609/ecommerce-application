@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TBzX8/dExHVKNGZGDmtadOGQ8sY167Hqf3Ni3h3TY3VGWKZFr1xv4KV0RyF8Z9gUdKFfOEEa4FfSAxuRH5rMcA==",
+  "dgSpecHash": "FUkX+JF8RYWIJ8Z68o+PW9HMHzpXDjXQA2qLcmUWjElalK58Llg4uHb9YF9BuIcFk3euzlN6SfN6wQ8Hi18xRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\EcommerceApplication\\EcommerceApplication.API\\Ecommerce.API.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,6 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\masstransit.rabbitmq\\8.1.2\\masstransit.rabbitmq.8.1.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.0\\microsoft.aspnetcore.authentication.jwtbearer.7.0.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
