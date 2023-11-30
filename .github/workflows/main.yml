@@ -22,7 +22,7 @@ jobs:
           dotnet-version: ${{ env.DOTNET_VERSION }}
 
       - name: Restore
-        run: dotnet restore ./EcommerceApplication.sln
+        run: dotnet restore ././EcommerceApplication.sln
 
       - name: Build
         run: dotnet build ./EcommerceApplication.sln --configuration Release --no-restore
