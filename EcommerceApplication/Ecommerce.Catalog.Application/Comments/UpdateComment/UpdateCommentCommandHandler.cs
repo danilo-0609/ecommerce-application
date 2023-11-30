@@ -31,16 +31,15 @@ internal sealed class UpdateCommentCommandHandler
             return Error.NotFound("Comment.NotFound", "Product was not found");
         }
 
-        var commentUpdate = Comment.Update(
+        Comment? commentUpdate = Comment.Update(
             _contextAccessor.UserId, 
             productId, 
             command.Comment, 
-            comment.CommentResponses.ToList(),
             comment.CreatedDateTime,
             DateTime.UtcNow);
 
-        await _commentRepository.UpdateAsync(commentUpdate);
+        await _commentRepository.UpdateAsync(commentUpdate!);
 
-        return commentUpdate.CommentId.Value;
+        return commentUpdate!.CommentId.Value;
     }
 }

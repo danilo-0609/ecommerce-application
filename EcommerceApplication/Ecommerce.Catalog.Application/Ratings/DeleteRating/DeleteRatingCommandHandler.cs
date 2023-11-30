@@ -35,10 +35,6 @@ internal sealed class DeleteRatingCommandHandler
             return Error.Unauthorized("User.Unauthorized", "Cannot delete if you are not authorized");
         }
 
-        var productId = ProductId.Create(command.ProductId);
-
-        rating.Remove(productId, rating);
-
         await _ratingRepository.DeleteAsync(rating);
 
         return Unit.Value;

@@ -1,7 +1,6 @@
 ﻿using Ecommerce.BuildingBlocks.Domain;
 using Ecommerce.Catalog.Domain.Common;
 using Ecommerce.Catalog.Domain.Products;
-using Ecommerce.Catalog.Domain.Ratings.Events;
 
 namespace Ecommerce.Catalog.Domain.Ratings;
 

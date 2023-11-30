@@ -1,8 +1,3 @@
-C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.csproj.AssemblyReference.cache
-C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.AssemblyInfoInputs.cache
-C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.AssemblyInfo.cs
-C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.UserAccess.Application.deps.json
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.UserAccess.Application.dll
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.UserAccess.Application.pdb
@@ -14,6 +9,11 @@ C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Application.pdb
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.UserAccess.Domain.pdb
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\bin\Debug\net7.0\Ecommerce.BuildingBlocks.Domain.pdb
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.csproj.CopyComplete
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\Ecommerce.UserAccess.Application.dll
 C:\Users\Usuario\source\repos\Ecommerce.UserAccess.Application\obj\Debug\net7.0\refint\Ecommerce.UserAccess.Application.dll

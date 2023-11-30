@@ -38,6 +38,7 @@
     <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.Domain\Ecommerce.Catalog.Domain.csproj" />
     <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.Infrastructure\Ecommerce.Catalog.Infrastructure.csproj" />
     <ProjectReference Include="..\EcommerceApplication\Ecommerce.Catalog.IntegrationEvents\Ecommerce.Catalog.IntegrationEvents.csproj" />
+    <ProjectReference Include="..\EcommerceApplication\EcommerceApplication.API\Ecommerce.API.csproj" />
   </ItemGroup>
 
 </Project>

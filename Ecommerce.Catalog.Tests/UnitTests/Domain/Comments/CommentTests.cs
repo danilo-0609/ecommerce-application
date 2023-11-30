@@ -1,5 +1,4 @@
 ﻿using Ecommerce.Catalog.Domain.Comments;
-using Ecommerce.Catalog.Domain.Comments.CommentResponses;
 using Ecommerce.Catalog.Domain.Products;
 
 namespace Ecommerce.Catalog.Tests.UnitTests.Domain.Comments;
@@ -34,7 +33,6 @@ public sealed class CommentTests
         Comment? comment = Comment.Update(Guid.NewGuid(),
             productId,
             value,
-            new List<CommentResponse>(),
             DateTime.UtcNow,
             DateTime.Now);
 
@@ -63,7 +61,6 @@ public sealed class CommentTests
         Comment? comment = Comment.Update(Guid.NewGuid(),
             value,
             "Comment",
-            new List<CommentResponse>(),
             DateTime.UtcNow,
             DateTime.Now);
 

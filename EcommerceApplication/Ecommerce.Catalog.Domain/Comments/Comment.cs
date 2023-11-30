@@ -1,21 +1,16 @@
 ﻿using Ecommerce.BuildingBlocks.Domain;
 using Ecommerce.Catalog.Domain.Common;
 using Ecommerce.Catalog.Domain.Products;
-using Ecommerce.Catalog.Domain.Comments.CommentResponses;
 
 namespace Ecommerce.Catalog.Domain.Comments;
 
 public sealed class Comment : AggregateRoot<CommentId, Guid>
 {
-    private readonly List<CommentResponse> _commentResponses = new();
-
     public CommentId CommentId { get; }
 
     public UserId UserId { get; private set; }
 
     public ProductId ProductId { get; private set; } 
-
-    public IReadOnlyList<CommentResponse> CommentResponses => _commentResponses.AsReadOnly();
 
     public string CommentText { get; private set; }
     
@@ -44,7 +39,6 @@ public sealed class Comment : AggregateRoot<CommentId, Guid>
             userId,
             productId,
             commentValue,
-            new List<CommentResponse>(),
             createdOnUtcNow,
             null);
 
@@ -54,7 +48,6 @@ public sealed class Comment : AggregateRoot<CommentId, Guid>
     public static Comment? Update(Guid userIdValue,
         ProductId productId,
         string? commentValue,
-        List<CommentResponse> commentResponses,
         DateTime createdOnUtcTime,
         DateTime updatedOnUtcTime)
     {
@@ -71,7 +64,6 @@ public sealed class Comment : AggregateRoot<CommentId, Guid>
             userId,
             productId,
             commentValue,
-            commentResponses,
             createdOnUtcTime,
             updatedOnUtcTime);
 
@@ -87,7 +79,6 @@ public sealed class Comment : AggregateRoot<CommentId, Guid>
         UserId userId,
         ProductId productId,
         string comment,
-        List<CommentResponse> commentResponses,
         DateTime createdDateTime,
         DateTime? updatedDateTime) : base(id)
     {
@@ -97,6 +88,5 @@ public sealed class Comment : AggregateRoot<CommentId, Guid>
         CommentText = comment;
         CreatedDateTime = createdDateTime;
         UpdatedDateTime = updatedDateTime;
-        _commentResponses = commentResponses;
     }
 }
