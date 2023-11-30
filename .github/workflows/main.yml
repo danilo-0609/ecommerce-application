@@ -12,10 +12,7 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
-
-    env:
-      DOTNET_VERSION: ${{ env.DOTNET_VERSION }}
-
+    
     steps:
       - uses: actions/checkout@v3
 
@@ -32,5 +29,3 @@ jobs:
 
       - name: Test
         run: dotnet test ./EcommerceApplication.sln --configuration Release --no-restore --no-build
-
-
