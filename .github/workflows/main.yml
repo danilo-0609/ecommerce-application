@@ -4,7 +4,7 @@ on:
   workflow_dispatch: 
   push: 
       branches: 
-        - master
+        - main
   
 env:
     DOTNET_VERSION: "7.0.x"
@@ -19,7 +19,7 @@ jobs:
         - name: Setup .NET
           uses: actions/setup-dotnet@v3
           with: 
-           dotnet-version: ${{ DOTNET_VERSION }}
+            dotnet-version: ${{ DOTNET_VERSION }}
 
         - name: Restore
           run : dotnet restore ./EcommerceApplication.sln
