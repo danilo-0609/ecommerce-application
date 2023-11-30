@@ -13,13 +13,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
 
+    env:
+      DOTNET_VERSION: ${{ env.DOTNET_VERSION }}
+
     steps:
       - uses: actions/checkout@v3
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: ${{ DOTNET_VERSION }}
+          dotnet-version: ${{ env.DOTNET_VERSION }}
 
       - name: Restore
         run: dotnet restore ./EcommerceApplication.sln
@@ -29,4 +32,5 @@ jobs:
 
       - name: Test
         run: dotnet test ./EcommerceApplication.sln --configuration Release --no-restore --no-build
+
 
